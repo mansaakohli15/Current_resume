@@ -2,6 +2,6 @@
 
 ## Resume
 
-📄 **[View My Resume](./June_Resume.pdf)**
+📄 **[View My Resume](./July_resume.docx.pdf)**
 
 Thank you for visiting my repository.
